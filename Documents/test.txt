@@ -1,1 +1,3 @@
-Hello world
+Hello planet!
+
+This is some more information that is useful
